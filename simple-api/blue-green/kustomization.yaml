@@ -7,5 +7,5 @@ resources:
 - ingress-simple-api.yaml
 - ingress-preview-simple-api.yaml
 images:
-- name: skaqud/simple-api
+- name: scjp2234/simple-api
   newTag: RB0.0.12
